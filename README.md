@@ -7,6 +7,7 @@ I'm a junior in college, majoring in Computer Science, with a passion for develo
 - Cloud solutions in AWS & Azure.
 - Shell scripting.
 - Rust
+- Enterprise .NET development
 
 ## 💼 What I'm looking forward to
 
