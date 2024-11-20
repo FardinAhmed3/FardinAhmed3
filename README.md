@@ -5,9 +5,8 @@ I'm a junior in college, majoring in Computer Science, with a passion for develo
 ## 🌱 I’m currently learning
 
 - Cloud solutions in AWS & Azure
-- Shell scripting
-- Rust
-- Enterprise .NET development
+- Containerization
+- Microservices
 
 ## 💼 What I'm looking forward to
 
