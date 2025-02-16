@@ -1,6 +1,6 @@
 # Hello, I'm Fardin 👋
 
-I'm a junior in college, majoring in Computer Science, with a passion for developing innovative software solutions. My academic journey has equipped me with a solid foundation in computer science principles, and I'm keen on applying this knowledge in practical, real-world scenarios.
+I'm a senior in college, majoring in Computer Science, with a passion for developing innovative software solutions. My academic journey has equipped me with a solid foundation in computer science principles, and I'm keen on applying this knowledge in practical, real-world scenarios.
 
 ## 🌱 I’m currently learning
 
