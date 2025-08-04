@@ -4,15 +4,7 @@ I'm a senior in college, majoring in Computer Science, with a passion for develo
 
 ## 🌱 I’m currently learning
 
-- Cloud solutions in AWS & Azure
-- Containerization
-- Microservices
-
-## 💼 What I'm looking forward to
-
-- Internship opportunities where I can contribute and further hone my skills in software development.
-- Collaborative projects that challenge me to think outside the box and learn new technologies.
-- Networking with professionals and peers in the tech industry to exchange ideas and experiences.
+- Data Science
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmed7/) 
